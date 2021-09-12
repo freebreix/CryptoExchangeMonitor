@@ -1,0 +1,6 @@
+{
+    "sketch": "StockChartMonitor.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "additionalUrls": "https://arduino.esp8266.com/stable/package_esp8266com_index.json"
+}
